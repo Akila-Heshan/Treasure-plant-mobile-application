@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/productItemConstraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="#2CB3BABA">
+
+    <TextView
+        android:id="@+id/productItemStar3"
+        android:layout_width="23dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="4dp"
+        android:drawableStart="@drawable/star"
+        android:drawableTint="@android:color/black"
+        android:textSize="8sp"
+        app:layout_constraintStart_toEndOf="@+id/productItemStar2"
+        app:layout_constraintTop_toTopOf="@+id/productItemStar2" />
+
+    <TextView
+        android:id="@+id/productItemStar1"
+        android:layout_width="23dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="16dp"
+        android:drawableStart="@drawable/star"
+        android:drawableTint="@android:color/black"
+        android:textSize="8sp"
+        app:layout_constraintStart_toEndOf="@+id/productItemSold"
+        app:layout_constraintTop_toTopOf="@+id/productItemSold" />
+
+    <TextView
+        android:id="@+id/productItemStar2"
+        android:layout_width="23dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="4dp"
+        android:drawableStart="@drawable/star"
+        android:drawableTint="@android:color/black"
+        android:textSize="8sp"
+        app:layout_constraintStart_toEndOf="@+id/productItemStar1"
+        app:layout_constraintTop_toTopOf="@+id/productItemStar1" />
+
+    <TextView
+        android:id="@+id/productItemStar5"
+        android:layout_width="23dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="4dp"
+        android:drawableStart="@drawable/star"
+        android:drawableTint="@android:color/black"
+        android:textSize="8sp"
+        app:layout_constraintStart_toEndOf="@+id/productItemStar4"
+        app:layout_constraintTop_toTopOf="@+id/productItemStar4" />
+
+    <ImageView
+        android:id="@+id/productItemImage"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/details" />
+
+    <TextView
+        android:id="@+id/productItemTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="24dp"
+        android:text="TextView"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/productItemImage"
+        app:layout_constraintTop_toTopOf="@+id/productItemImage" />
+
+    <TextView
+        android:id="@+id/productItemPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@+id/productItemImage"
+        app:layout_constraintTop_toBottomOf="@+id/productItemTitle" />
+
+    <TextView
+        android:id="@+id/productItemSold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        app:layout_constraintStart_toEndOf="@+id/productItemImage"
+        app:layout_constraintTop_toBottomOf="@+id/productItemPrice" />
+
+    <TextView
+        android:id="@+id/productItemStar4"
+        android:layout_width="23dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="4dp"
+        android:drawableStart="@drawable/star"
+        android:drawableTint="@android:color/black"
+        android:textSize="8sp"
+        app:layout_constraintStart_toEndOf="@+id/productItemStar3"
+        app:layout_constraintTop_toTopOf="@+id/productItemStar3" />
+</androidx.constraintlayout.widget.ConstraintLayout>

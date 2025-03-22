@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "287846202436",
+    "project_id": "fir-1-de840",
+    "storage_bucket": "fir-1-de840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287846202436:android:3e25a539ea7397e7d8d011",
+        "android_client_info": {
+          "package_name": "com.akila.app30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287846202436-orhihd7ffto8lrge1l694kdfdbk7d2tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akila.app30",
+            "certificate_hash": "5227e1b5ebec10419924bd598162295248e27fba"
+          }
+        },
+        {
+          "client_id": "287846202436-tt8vtesu0m9ah0456a85hjb2tidna2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuINx-8GspK_rQlSZAB61OiA9BgR-VZCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287846202436-tt8vtesu0m9ah0456a85hjb2tidna2f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287846202436:android:d929e3d82d292177d8d011",
+        "android_client_info": {
+          "package_name": "com.akila.app31"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287846202436-tt8vtesu0m9ah0456a85hjb2tidna2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuINx-8GspK_rQlSZAB61OiA9BgR-VZCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287846202436-tt8vtesu0m9ah0456a85hjb2tidna2f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287846202436:android:6f852f114aff0044d8d011",
+        "android_client_info": {
+          "package_name": "com.akila.treasureplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287846202436-v8ler564ou6n9ajgtflrjjkosaoufqrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akila.treasureplant",
+            "certificate_hash": "5227e1b5ebec10419924bd598162295248e27fba"
+          }
+        },
+        {
+          "client_id": "287846202436-tt8vtesu0m9ah0456a85hjb2tidna2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuINx-8GspK_rQlSZAB61OiA9BgR-VZCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287846202436-tt8vtesu0m9ah0456a85hjb2tidna2f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,100 @@
+<resources>
+    <string name="url">https://humorous-whale-improved.ngrok-free.app/MCTreasurePlant</string>
+
+    <string name="MAPAPI_KEY">_______________________________</string>
+
+    <string name="app_name">Treasure Plant</string>
+
+
+    <string name="login_title1">SIGN IN</string>
+    <string name="login_title2">Welcome Back</string>
+    <string name="login_text1">Login back to your account</string>
+    <string name="login_text2">Do not have an account yet? Join Now</string>
+    <string name="login_input1">E-mail</string>
+    <string name="login_input2">Password</string>
+    <string name="login_btn1">Forgot Password?</string>
+    <string name="login_btn2">SIGN IN</string>
+    <string name="login_btn3">Join Now</string>
+    <string name="login_btn4">Login with Google</string>
+    <string name="login_text4">OR</string>
+    <string name="signup_title1">SIGN UP</string>
+    <string name="signup_title2">Welcome</string>
+    <string name="signup_input1">First Name</string>
+    <string name="signup_input2">Last Name</string>
+    <string name="signup_text1">Already have an account? Sign In</string>
+    <string name="signup_text2">Sign Up into your account</string>
+    <string name="search_text1">Search</string>
+    <string name="user_profile_btn1">Order History</string>
+    <string name="user_profile_btn2">Address</string>
+    <string name="user_profile_btn3">User Details</string>
+    <string name="user_profile_btn4">Log Out</string>
+    <string name="profile_update_text1">Update Your Details</string>
+    <string name="profile_update_text2">Update</string>
+    <string name="profile_update_email">Email</string>
+    <string name="profile_update_fname">First Name</string>
+    <string name="profile_update_lname">Last Name</string>
+    <string name="single_product_btn1">Buy Now</string>
+    <string name="single_product_btn2">Add To Cart</string>
+    <string name="single_product_text1">Similar Product</string>
+    <string name="home_text1">Our Best Product</string>
+    <string name="add_to_cart_alert_text1">Select Quantity</string>
+    <string name="add_to_cart_alert_text2">1</string>
+    <string name="add_to_cart_alert_text3">Unit Price :</string>
+    <string name="add_to_cart_alert_text4">Total Price :</string>
+    <string name="add_to_cart_alert_text5">Add To Cart</string>
+
+    <string name="report_alert_text1">Report Application Errors</string>
+    <string name="report_alert_input1">you can describe a problem here</string>
+    <string name="report_alert_button1">Send</string>
+
+    <string name="cart_text1">Total : </string>
+    <string name="cart_button1">Checkout</string>
+
+    <string name="checkout_text1">Checkout</string>
+    <string name="checkout_text2">Sub Total : </string>
+    <string name="checkout_text3">Shipping Coast : </string>
+    <string name="checkout_text4">Total Price : </string>
+    <string name="checkout_text5">Shipping Details</string>
+    <string name="checkout_button1">Pay Now</string>
+
+    <string name="cart_item_text1">Remove</string>
+
+    <!-- TODO: Address -->
+    <string name="address_text1">Add default shipping address</string>
+    <string name="address_input1">Address Line 1</string>
+    <string name="address_input2">Address Line 2</string>
+    <string name="address_input3">Postal Code</string>
+    <string name="address_input4">Name</string>
+    <string name="address_input5">Mobile Number</string>
+    <string name="address_btn1">Add Address</string>
+    <string name="address_btn2">Remove Address</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--TODO: Seller-->
+    <string name="activity_label">Treasure Plant Seller</string>
+    <string name="seller_login_text1">Seller Login</string>
+    <string name="seller_login_text2">Login back to yor seller account</string>
+    <string name="seller_login_text3">Do not have an seller account yet? Join Now</string>
+    <string name="seller_block_alert_text1">Warning</string>
+    <string name="seller_main_text1">Seller</string>
+    <string name="seller_block_alert_text2">Your Seller account is suspended. Please Contact Treasure Plant</string>
+    <string name="seller_product_add_text1">Add Product</string>
+    <string name="seller_product_add_input1">Title</string>
+    <string name="seller_product_add_input2">Price</string>
+    <string name="seller_product_add_input3">Quantity</string>
+    <string name="seller_product_add_input4">Description</string>
+    <string name="seller_product_add_input5">Brand</string>
+    <string name="seller_product_add_input6">Category</string>
+    <string name="seller_product_add_text2">Selected Images : </string>
+    <string name="seller_product_add_btn1">Select Images</string>
+    <string name="seller_product_add_btn3">Select First Image</string>
+    <string name="seller_product_add_btn2">Add Product</string>
+
+    <string name="brand_default_value">Select Brand</string>
+    <string name="category_default_value">Select Category</string>
+    <string name="sellerSignUpText">Seller Sign Up</string>
+    <string name="selleNextStepButton">Next Step</string>
+    <string name="createSellerAccountButton">Create Seller Account</string>
+</resources>
