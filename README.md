@@ -32,3 +32,24 @@ Backend: Firebase Firestore (Database), SQLite (Local Storage).
 APIs & Services: Google Maps API, PayHere Payment Gateway, Firebase Authentication.
 
 # 📷 Screenshots
+
+### 🔹 Customer Login Screen
+
+<img src="screenshots/login.jpg" width="250">
+
+### 🔹 Google Authentication
+
+<img src="screenshots/google.jpg" width="250">
+
+### 🔹 Customer Home Screen
+
+<img src="screenshots/home.jpg" width="250">
+
+### 🔹 Single Product View Screen
+
+<img src="screenshots/single_product_view.jpg" width="250">
+
+### 🔹 Payhere
+
+<img src="screenshots/payhere.jpg" width="250">
+
